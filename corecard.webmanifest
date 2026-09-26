@@ -1,0 +1,27 @@
+{
+  "name": "CoreCard · Core Studio",
+  "short_name": "CoreCard",
+  "description": "Tu tarjeta Core Studio: QR, estrellas y rutina.",
+  "display": "standalone",
+  "background_color": "#2A2521",
+  "theme_color": "#2A2521",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "corecard-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "corecard-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "corecard-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
