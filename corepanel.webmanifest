@@ -1,7 +1,10 @@
 {
+  "id": "panel.html",
   "name": "Core Panel · Core Studio",
   "short_name": "Core Panel",
   "description": "Panel del equipo Core Studio.",
+  "start_url": "panel.html",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#F3F2F2",
   "theme_color": "#2F2D27",
